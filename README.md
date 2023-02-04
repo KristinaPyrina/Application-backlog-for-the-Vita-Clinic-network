@@ -1,4 +1,4 @@
-# application-backlog-for-the-vita-clinic-network
+# Приложение "Вита"
 Работа с приложением клиники "Вита".
 В ходе работы:
 - разработала диаграммы BPMN as-is и to-be;
